@@ -1,0 +1,23 @@
+{
+    "notifications": [
+       
+        {
+            "name":  "Kamu", 
+            "profilePic":  "", 
+            "content":  " Menyukai barang", 
+            "postImage":  "assets/images/dior.jpg",
+            "timeAgo":  "1m", 
+            "hasStory" :   true
+        },
+       
+        {
+            "name":  "Kamu", 
+            "profilePic":  "", 
+            "content":  " Menyukai barang", 
+            "postImage":  "assets/images/gucci.jpeg", 
+            "timeAgo":  "2m", 
+            "hasStory" :  false
+        }
+       
+    ]    
+}
