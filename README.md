@@ -8,6 +8,7 @@ Brikut penjelasan dari hasil uji coba aplikasi dan perubahan perubahan yang di l
 ![Nama Gambar](Login_normal.png) 
  
 Lalu saya merubah bagian tampilan login serta menambahkan halaman register dan lupa password 
+serta menambahkan validasi username dan password nya
 ![Nama Gambar](login.png) 
 ![Nama Gambar](forgot_pw.png) 
 ![Nama Gambar](register.png)
