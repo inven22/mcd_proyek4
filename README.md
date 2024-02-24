@@ -1,6 +1,8 @@
-# mcd
+# Tugas mcd proyek 4 
 
-A new Flutter project.
+Ahmad al fajri 221511039
+
+Tugas
 
 ## Getting Started
 
