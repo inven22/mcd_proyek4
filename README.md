@@ -14,6 +14,8 @@ Lalu saya merubah bagian tampilan login serta menambahkan halaman register dan l
 
 lalu menambahkan username dan password aktif tetapi ini belum menggunakan back end alias masib
 ditampung nilai pada variable username dan password 
+![Nama Gambar](validasi.png) 
+![Nama Gambar](validasi_login.png) 
 
 
 Setelah login lalu masuk ke halaman dashboard atau beranda
