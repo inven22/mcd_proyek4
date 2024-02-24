@@ -11,8 +11,10 @@ Berikut tampilan login normal sesuai tutorial di codelabs nya
 
 Lalu saya merubah bagian tampilan login serta menambahkan halaman register dan lupa password 
 ![Nama Gambar](login.png) 
-![Nama Gambar](register.png)
+ini halaman lupa pasword atau reset password
 ![Nama Gambar](forgot_pw.png) 
+ini halaman register 
+![Nama Gambar](register.png)
 
 Setelah login lalu masuk ke halaman dashboard atau beranda
 
