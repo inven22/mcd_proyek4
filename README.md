@@ -4,7 +4,7 @@ Ahmad al fajri 221511039
 
 Tugas aplikasi mcd codelabs berbasic flutter 
 
-Brikut penjelasan dari hasil uji coba aplikasi dan perubahan perubahan yang di lakukan, berikut tampilan login normal sesuai tutorial di codelabs nya 
+Brikut penjelasan dari hasil uji coba aplikasi dan perubahan perubahan yang di lakukan, berikut tampilan login normal sesuai tutorial  
 ![Nama Gambar](Login_normal.png) 
  
 Lalu saya merubah bagian tampilan login serta menambahkan halaman register dan lupa password 
