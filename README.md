@@ -15,8 +15,9 @@ Lalu saya merubah bagian tampilan login serta menambahkan halaman register dan l
 Setelah login lalu masuk ke halaman dashboard atau beranda
 ![Nama Gambar](home_normal.png)
 
-saya merubah bagian tampilan home nya dengan menambahkan search bar,merapihkan tampilan 
+saya merubah bagian tampilan home nya dengan menambahkan search bar,merapihkan tampilan dan menu 
 lalu menambahkan halaman baru yaitu halaman Favorit barang yang disukai user dan navbar
+dan juga menganti gambar product nya
 ![Nama Gambar](home.png)
 ![Nama Gambar](like_page.png)
 
