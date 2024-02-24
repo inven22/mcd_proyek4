@@ -8,10 +8,13 @@ Brikut penjelasan dari hasil uji coba aplikasi dan perubahan perubahan yang di l
 ![Nama Gambar](Login_normal.png) 
  
 Lalu saya merubah bagian tampilan login serta menambahkan halaman register dan lupa password 
-serta menambahkan validasi username dan password nya
 ![Nama Gambar](login.png) 
 ![Nama Gambar](forgot_pw.png) 
 ![Nama Gambar](register.png)
+
+lalu menambahkan username dan password aktif tetapi ini belum menggunakan back end alias masib
+ditampung nilai pada variable username dan password 
+
 
 Setelah login lalu masuk ke halaman dashboard atau beranda
 ![Nama Gambar](home_normal.png)
