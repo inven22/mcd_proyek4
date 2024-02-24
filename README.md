@@ -16,7 +16,7 @@ Setelah login lalu masuk ke halaman dashboard atau beranda
 ![Nama Gambar](home_normal.png)
 
 saya merubah bagian tampilan home nya dengan menambahkan search bar,merapihkan tampilan 
-lalu menambahkan halaman baru yaitu halaman Favorit barang yang disukai user
+lalu menambahkan halaman baru yaitu halaman Favorit barang yang disukai user dan navbar
 ![Nama Gambar](home.png)
 
 
