@@ -16,7 +16,7 @@ Setelah login lalu masuk ke halaman dashboard atau beranda
 ![Nama Gambar](home_normal.png)
 
 saya merubah bagian tampilan home nya dengan menambahkan search bar dan mengrapihkan tampilan menunya
- dan lalu menambahkan halaman serta menambahkan menu navigasi
+dan lalu menambahkan halaman serta menambahkan menu navigasi
 ![Nama Gambar](home.png)
 
 
