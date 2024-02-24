@@ -20,6 +20,9 @@ lalu menambahkan halaman baru yaitu halaman Favorit barang yang disukai user dan
 ![Nama Gambar](home.png)
 
 
+lalu menambahkan halaman notifikasi pada  ui aplikasi 
+
+
 
 
 ## Getting Started
