@@ -25,11 +25,13 @@ Setelah login lalu masuk ke halaman dashboard atau beranda
 saya merubah bagian tampilan home nya dengan menambahkan search bar,merapihkan tampilan dan menu 
 lalu menambahkan halaman baru yaitu halaman Favorit barang yang disukai user dan navbar juga 
 menganti gambar produknya
+
 ![Nama Gambar](home.png)
 ![Nama Gambar](like_page.png)
 
 
 lalu menambahkan halaman notifikasi pada  ui aplikasi 
+
 ![Nama Gambar](notif.png)
 
 
